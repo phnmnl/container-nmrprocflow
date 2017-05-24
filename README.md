@@ -1,5 +1,5 @@
 ![Logo](nmrprocflow_logo.png)
-# nmrglue
+# nmrprocflow
 
 Version: 1.2.6
 
